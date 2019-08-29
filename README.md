@@ -1,0 +1,2 @@
+# Comparision-of-diffrent-Machine-Learning-Techniques-for-Software-Development-Time-Prediction-on-Data
+Compared 4 prediction-based machine learning namely linear regression, Multiple Regression, Simple Neural Networks and Gaussian Process algorithms on a Dataset of legacy software development records on common matrices for predicting the time taken in software production time. The result obtained after this comparison was presented.
